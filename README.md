@@ -128,6 +128,10 @@ MMXX AI 2.7 是一款多功能的人工智能应用程序，结合了人工智�
 ## 联系方式
 
 如果您对应用程序有任何问题或疑问，请通过 84406570@qq.com 联系作者。
+
+
+
+
 Software Description (软件说明)
 软件描述
 Overview (概述)
@@ -140,7 +144,7 @@ Web Search and Academic Search ：Integrates web search and academic search func
 User - Friendly Interface ：Has a graphical user interface (GUI) that is easy to use. Users can interact with the AI, manage conversations, and perform various tasks through the intuitive interface.
 Customization ：Allows users to customize AI models and set some parameters according to their needs. It also has features like undo and redo for user input to enhance the user experience.  
 Technical Details (技术细节)
-Programming Language ：Developed in Python, using various libraries and frameworks such as Tkinter for the GUI, Selenium for web operations, and requests for HTTP requests.
+Programming Language ：Developed in Python, using various libraries and frameworks such as Tkinter for the GUI, Selenium for web operations, and requests for HTTP requests.                                                                                                            
 AI Integration ：Connects with OpenAI and Zhipu AI APIs to access their powerful language models for chat and content generation functions.
 AI 集成：连接 OpenAI 和智谱 AI API，以访问其强大的语言模型，用于聊天和内容生成功能。
 Image Processing ：Uses web - based image search and download methods, and can handle image elements on web pages through Selenium.  
@@ -159,7 +163,7 @@ Start Using ：After the application is started and configured, you can use the 
 Notes (注意事项)
 API Key Management ：The API keys for AI services should be kept secure and not shared with others. Make sure to follow the terms of service of the AI providers when using their APIs.
 Internet Connection ：Some functions of the application such as web search, image download, and AI chat require an internet connection to work properly.
-Legal and Ethical Use ：Users should use the application in accordance with the laws and regulations and ethical standards. Do not use it for any illegal or improper purposes.
+Legal and Ethical Use ：Users should use the application in accordance with the laws and regulations and ethical standards. Do not use it for any illegal or improper purposes.                                                                                                                                                                                              
 MMXX AI 2.7 README
 Introduction
 MMXX AI 2.7 is a versatile AI - powered application that provides a wide range of functions to assist users in various tasks. It combines the power of artificial intelligence with user - friendly interface design to offer an efficient and convenient experience.
